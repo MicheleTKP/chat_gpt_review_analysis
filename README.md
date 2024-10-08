@@ -21,3 +21,6 @@ This repository contains a comprehensive analysis of user reviews for ChatGPT, f
 ## Usage
 
 Clone this repository and install the required packages to explore the analysis. View the interactive notebook through [nbviewer](https://nbviewer.jupyter.org/) for Plotly visualizations.
+
+
+<small style="font-family: 'Merriweather', serif; font-size:14px;">***Source : https://statso.io/***</small>
